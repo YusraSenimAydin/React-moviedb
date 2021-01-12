@@ -1,7 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # React MovieDB 
+
 [Live](https://reactmoviesdb.netlify.app)<br>
 [Used resource](https://www.youtube.com/watch?v=XQ5bhrr8kRg&t=197s)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
